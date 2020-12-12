@@ -1,2 +1,2 @@
-all:  evanescence.ly
-  lilypond evanescence.ly
+all:	evanescence.ly
+	lilypond evanescence.ly
