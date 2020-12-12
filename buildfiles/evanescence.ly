@@ -42,8 +42,8 @@
           <dis ais e>2. \bar "|"
           <d a es>2. \bar "|"
           <des aes f>4. g,8 aes bes \bar "|"
-          b2.~ \bar "|"
-          b2. \bar "|"
+          ces2.~ \bar "|"
+          ces2. \bar "|"
           r4. r4. \ppp \bar "|"
           
 	  \clef treble
@@ -59,13 +59,13 @@
           
           <c g c,>2. \bar "|"
           <g d g,>2. \bar "|"
-          <d a d,>2. \bar "|"
+          <d! a! d,!>2. \bar "|"
           <a e a,>2. \bar "|"
 	  \clef bass
           <b, fis cis>2. \bar "|"
 	  \clef treble
           \ottava #2
-          <f'''' f,>8\staccato s8 s2 \bar "||"
+          <f''''! f,!>8\staccato s8 s2 \bar "||"
         }
       }
       \new Staff = "down" {
@@ -115,7 +115,7 @@
           <aes, es aes,>2. \bar "|"
           <des, aes des,>2. \bar "|"
           <ges, des ges,>2. \bar "|"
-          <b, b,>2. \bar "|"
+          <d! d,!>2. \bar "|"
           s2. \bar "||"
         }
       }
